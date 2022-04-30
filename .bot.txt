@@ -1,0 +1,5 @@
+{
+	"ip":"Entity_killer_SMP.aternos.me",
+	"port": " 49134",
+	"name": "afkbot"
+}
